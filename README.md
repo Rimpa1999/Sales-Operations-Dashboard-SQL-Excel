@@ -7,7 +7,7 @@ A complete industry-level project using Excel and MySQL for Sales Operations ana
 | Table Name                | Purpose                                |
 |--------------------------|----------------------------------------|
 | `sales_operations_project` | Stores all product sales transactions |
-| `prosuct` (products)     | Contains product name, stock, category |
+| `product` (products)     | Contains product name, stock, category |
 | `delivery`               | Stores delivery and dispatch status    |
 
 ---
